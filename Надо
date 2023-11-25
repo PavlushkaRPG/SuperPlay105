@@ -1,1 +1,3 @@
-
+				<video autoplay loop muted class="video" id="video">
+					<source src="img/Video.mp4" type="video/mp4">
+				</video>
